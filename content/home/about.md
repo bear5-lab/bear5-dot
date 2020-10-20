@@ -2,8 +2,8 @@
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+headless = false  # This file represents a page section.
+active = false  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Under Construction"
@@ -33,8 +33,8 @@ subtitle = "Stay Tuned"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  # padding = ["20px", "0", "20px", "0"]
-  padding = ["0", "0", "0", "0"]
+  padding = ["20px", "0", "50px", "0px"]
+  # padding = ["0", "0", "0", "0"]
 
 [advanced]
  # Custom CSS. 
